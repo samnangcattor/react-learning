@@ -8,4 +8,4 @@
 - ដំឡើង react, react-dom.
 - ដាក់បន្ថែម storybook ដើម្បី គ្រប់គ្រង់ component
 - ប្រើប្រាស់ Style CSS: styled-components: CSS នៅក្នុង javascript.
-- ជ្រើរើេស បណ្ណាល័យ CSS: Bootstrap ឬមួយក៍ Material design
+- ជ្រើរើស បណ្ណាល័យ CSS: Bootstrap ឬមួយក៍ Material design
