@@ -1,5 +1,5 @@
 # react-learning
-- Step to create project in react (2018)
+- របៀបសរសេរកូដ ប្រើប្រាស់ R(2018)
 
 - ប្រើប្រាស់ yarn ជាមួយ React.
 - ដំឡើង webpack, webpack-cli, webpack-serve
