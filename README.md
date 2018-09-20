@@ -7,3 +7,5 @@
 - ដំឡើង html-webpack-plugin: ដើម្បីបង្កើត ហ្វីល js ដោយស្វ័យប្រវិត្ដ.
 - ដំឡើង react, react-dom.
 - ដាក់បន្ថែម storybook ដើម្បី គ្រប់គ្រង់ component
+- ប្រើប្រាស់ Style CSS: Styled-components:
+CSS នៅក្នុង javascript.
