@@ -1,4 +1,4 @@
-# react-learning
+# react project
 - របៀបសរសេរកូដ ប្រើប្រាស់ React(2018)
 
 - ប្រើប្រាស់ yarn ជាមួយ React.
