@@ -10,3 +10,4 @@
 - ប្រើប្រាស់ Style CSS: styled-components: CSS នៅក្នុង javascript.
 - ជ្រើរើស បណ្ណាល័យ CSS: Bootstrap ឬមួយក៍ Material design
 - ដាក់បន្ថែម storybook-readme ដើម្បីសរសេរពត័មានលំអិតរបស់ Component និមួយៗក្នុង storybook
+- ដាក់បន្ថែម package recompose.
