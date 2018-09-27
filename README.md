@@ -11,3 +11,4 @@
 - ជ្រើរើស បណ្ណាល័យ CSS: Bootstrap ឬមួយក៍ Material design
 - ដាក់បន្ថែម storybook-readme ដើម្បីសរសេរពត័មានលំអិតរបស់ Component និមួយៗក្នុង storybook
 - ដាក់បន្ថែម package recompose.
+- ដាក់បន្ថែម Storybook Addon Knobs ដើម្បីជួយអោយយើងធ្វើការពិនិត្យហ្នឹងកែប្រែ Props របស់ component ក្នុង StoryBook ដោយផ្ទាល់
